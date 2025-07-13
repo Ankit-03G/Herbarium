@@ -1,6 +1,6 @@
 # Responsive Plants Website 🎍 
 
-## [Live Demo Link](herbarium-three.vercel.app)
+## [Live Demo Link](https://herbarium-three.vercel.app/)
 
 
 ## [Watch it on youtube](https://youtu.be/lpzExNZDizI)
